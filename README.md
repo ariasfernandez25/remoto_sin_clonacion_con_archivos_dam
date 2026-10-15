@@ -1,1 +1,14 @@
-# remoto_sin_clonacion_con_archivos_dam
+# remoto\_sin\_clonacion\_con\_archivos\_dam
+
+
+
+
+
+Tecnologias empleadas
+
+
+
+Java
+
+Python
+
